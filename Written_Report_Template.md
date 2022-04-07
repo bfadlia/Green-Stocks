@@ -9,9 +9,9 @@ This project helps our friend Steve analyze Green stocks for his parents. After 
 ## Results
 
 The results of the refactored project were as follows:
-  For 2017:
-- ![IMAGE_DESCRIPTION](/resources/VBA_Challenge_2017.png)
-  For 2018
+- For 2017:
+  - ![IMAGE_DESCRIPTION](/resources/VBA_Challenge_2017.png)
+- For 2018
   - ![IMAGE_DESCRIPTION](/resources/VBA_Challenge_2018.png)
 
 ## Summary
