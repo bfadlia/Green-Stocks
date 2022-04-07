@@ -8,7 +8,9 @@ This project helps our friend Steve analyze Green stocks for his parents. After 
 
 ## Results
 
-The refactored script ran much faster
+The results of the refactored project were as follows:
+
+- ![IMAGE_DESCRIPTION](/resources/VBA_Challenge_2017.png)
 
 ### Analysis of Outcomes Based on Launch Date
 
