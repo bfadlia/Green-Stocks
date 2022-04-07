@@ -1,16 +1,14 @@
-# Kickstarting with Excel
+# Stockmarket Analysis
 
 ## Overview of Project
 
 ### Purpose
-The purpose of the project is to help the up and coming playwrite, Louise, analyze her crowd funding campain of her play 'Fever'. The project uses Excel to organize, sort and analyze her crowdfunding data to determine what factors make a campaign successful.
+This project helps our friend Steve analyze Green stocks for his parents. After giving him a VBA file that can successfully analyze a dozen stocks, we want to refactor the code to ensure it performs efficiently and fast with thousands of stocks and measure the performance of the new code..
 
 
-## Analysis and Challenges
+## Results
 
-Some of the challenges:
-- The data had some data clumped together in one column, like category/subcategory that needed some messaging/cleanup to be usable.
-- Another data cleanup was needed for the launch dates that came in Unix format that no one can understand.
+The refactored script ran much faster
 
 ### Analysis of Outcomes Based on Launch Date
 
