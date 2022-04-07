@@ -9,26 +9,14 @@ This project helps our friend Steve analyze Green stocks for his parents. After 
 ## Results
 
 The results of the refactored project were as follows:
-
+  For 2017:
 - ![IMAGE_DESCRIPTION](/resources/VBA_Challenge_2017.png)
+  For 2018
+  - ![IMAGE_DESCRIPTION](/resources/VBA_Challenge_2018.png)
 
-### Analysis of Outcomes Based on Launch Date
+## Summary
 
 Results of Outcome based on Launch dates shows that:
 - Campains are more likely to succed in the April-August time frame. Perhaps people are more eager to participate and are in a better mood in the nice Summer season
 - Campaign have highest chance of failure in December. This may be due to the holiday season and being stressed financially by holiday shopping to donate to the campaigns.
 
-
-### Analysis of Outcomes Based on Goals
-
-### Challenges and Difficulties Encountered
-
-## Results
-
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
