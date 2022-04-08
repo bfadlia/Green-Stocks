@@ -20,7 +20,5 @@ The results of the refactored project were as follows:
 ## Summary
 Analyzing the effect of using the refactored code:
 - In general, using refactored code is very common in software development. The problem you are trying to solve must have been considered and tackled by many before you and if others work is available and well documented saves you a lot of time to start with their libraries and genric code and tailor it to your specific problem compared to writing everything you need from scratch. The only disadvantage is it takes some work and knowledge to know where to find trusted source of code to start with or misunderstanding deifferences between what they solved and what you are trying to solve.
-- In the particular case of this original and refactored scripts
-- Campains are more likely to succed in the April-August time frame. Perhaps people are more eager to participate and are in a better mood in the nice Summer season
-- Campaign have highest chance of failure in December. This may be due to the holiday season and being stressed financially by holiday shopping to donate to the campaigns.
+- In the particular case of this original and refactored scripts, the original script had two nested loops repeating the looping through the entire records by the number of stocks thre are dedicating. The refactored script loops through the entire records only once so it's no surprise that the program ran more than 5 times faster with the refactored code. We can now be confident that this code will scale well when we have many more stocks.
 
